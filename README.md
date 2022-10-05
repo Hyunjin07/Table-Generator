@@ -1,2 +1,2 @@
-# COMP125 Assignment2
+#Table-Generator
  
